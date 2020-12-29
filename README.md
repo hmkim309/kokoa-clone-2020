@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 update
 
-CSS got better
+I'm going to become a web developer.
